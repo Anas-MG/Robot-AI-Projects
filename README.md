@@ -1,5 +1,5 @@
-# arduino-robot-arm
-#the Ai-Part of the robot_arm 
+# Smart Methods Ai Tasks 
 
-# Task 1
- #Testing vedio of the Configuration and installation of ROS Noetic 
+# Task 1 Configuration and Installation 
+ #Vedio of testing the Configuration and installation of ROS Noetic 
+ 
