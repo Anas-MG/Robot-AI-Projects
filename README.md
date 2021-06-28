@@ -1,5 +1,7 @@
 # Smart Methods Ai Tasks 
 
-**AI-Task 1**
+**Task**
  >Configuration and installation of ROS arm package 
  
+ ## 
+ - Folder: AI-Task1
