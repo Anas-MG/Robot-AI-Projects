@@ -57,7 +57,7 @@ $ export TURTLEBOT3_MODEL=waffle_pi
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
  ````
- - ##### Svaing the map 
+ - ##### Saving the map 
  ````
  $ rosrun map_server map_saver -f ~/map
  ````
