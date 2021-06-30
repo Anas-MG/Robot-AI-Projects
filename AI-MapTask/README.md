@@ -44,7 +44,7 @@ $ cd ~/catkin_ws && catkin_make
 ````
 - ##### Launch Simulation World for Turtlebot3 House
  ````
-$ export TURTLEBOT3_MODEL=waffle_pi
+$ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_gazebo turtlebot3_house.launch
  ````
  - #### Launce The Teleopration node to teleport Turtlebot3 robot 
@@ -53,7 +53,7 @@ $ roslaunch turtlebot3_gazebo turtlebot3_house.launch
  ````
  - ##### Run SLAM node
  ````
-$ export TURTLEBOT3_MODEL=waffle_pi
+$ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
  ````
