@@ -11,6 +11,6 @@
 - #### Using SLAM with TurtleBot3  to create and save a map 
 - #### Using SLAM with NOX to create and save a map 
 > #### Folder:
-- **AI-Task2**
+- **AI-MapTask**
 #
 
