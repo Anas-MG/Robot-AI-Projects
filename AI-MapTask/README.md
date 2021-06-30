@@ -32,7 +32,7 @@ $ sudo apt install ros-noetic-turtlebot3
  $ source ~/.bashrc
 ````
 ##
->simulation:
+>Simulation setup:
 -  ##### Install Simulation Package
  ````
 $ cd ~/catkin_ws/src/
