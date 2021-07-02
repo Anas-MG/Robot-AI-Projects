@@ -81,14 +81,12 @@ $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ## Installation 
 - ##### package Built from source:
 ````
-
 git clone https://github.com/devanshdhrafani/diff_drive_bot.git
 
 ````
 - ##### Required dependencies:
 ```` 
 sudo apt-get install ros-noetic-dwa-local-planner
-
 ````
  ##
 ###### **// The launch files in this package uses xacro.py and it is deprecated; I've used xacro instead**
@@ -96,7 +94,6 @@ sudo apt-get install ros-noetic-dwa-local-planner
 - #### Load the robot in the Gazebo environment. Default model is the turtlebot3_house
 ````
 $ roslaunch diff_drive_bot gazebo.launch
-
 ```` 
 ##
  ###### **//At this point i've changed node name="joint_state_publisher" in gmapping.launch to  node=name="rob_st_pub" to work with my noetic** 
@@ -104,13 +101,11 @@ $ roslaunch diff_drive_bot gazebo.launch
 - #### Launch the slam_gmapping node. This will also start rviz to visualize
 ```` 
 $ roslaunch diff_drive_bot gmapping.launch
-
 ````
 - #### control using keyboard: 
 ````
 
-$ rosrun diff_drive_bot keyboard_teleop.py  // this command from the source didn't work with me . i think it was duo to that it was built for older python
-
+$ rosrun diff_drive_bot keyboard_teleop.py  // This command from the source didn't work with me . i think it was duo to that it was built for older python
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch // I've used the turtlebot3_teleop_key.launch file and it worked.
 
 ````
