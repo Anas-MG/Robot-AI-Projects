@@ -12,7 +12,7 @@ $ sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
   ros-noetic-gmapping ros-noetic-navigation ros-noetic-interactive-markers
   
 ````
-## Using SLAM with Waffle bot  and  turtlebot3 World Model
+## 1-Using SLAM with Waffle bot  and  turtlebot3 World Model
 ![turtlebot3_AnasMP](https://user-images.githubusercontent.com/49666154/124042206-00580600-da11-11eb-9c5a-5ddc1655254b.png)
 
 
@@ -73,7 +73,7 @@ $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
 ````
 
-# Using SLAM with diff drive bot and Turtlebot3 House Model
+# 2-Using SLAM with diff drive bot and Turtlebot3 House Model
 
 ![diff_drive_bot](https://user-images.githubusercontent.com/49666154/124212448-a7af6880-daf7-11eb-9d30-c1059a1e7984.png)
 ![diff_drive_bot_Map](https://user-images.githubusercontent.com/49666154/124212452-a8e09580-daf7-11eb-9aff-4865f1219975.png)
