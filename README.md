@@ -1,6 +1,6 @@
 # AI- Robot Tasks 
 
-## Tasks:
+## 1-Tasks:
 - ##### Configuration and installation of ROS Noetic,
 - ##### Installing Robot arm package 
 ### subTasks:
@@ -9,7 +9,7 @@
 
 
 #
-## Tasks: 
+## 2-Tasks: 
 - ##### Using SLAM with TurtleBot3  to create and save a map 
 - ##### Using SLAM with NOX to create and save a map 
 > ##### Folder:  **AI-MapTask**
