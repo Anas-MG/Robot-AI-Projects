@@ -73,7 +73,7 @@ $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 - #### Load the robot in the Gazebo environment. Default model is the turtlebot3_house
 ````$ roslaunch diff_drive_bot gazebo.launch```` 
 ##
- #### At this point i've changed node name="joint_state_publisher" in gmapping.launch to  node=name="rob_st_pub" to work with my noetic 
+ ###### **At this point i've changed node name="joint_state_publisher" in gmapping.launch to  node=name="rob_st_pub" to work with my noetic** 
 ##
 - #### Launch the slam_gmapping node. This will also start rviz to visualize
 ```` $ roslaunch diff_drive_bot gmapping.launch````
