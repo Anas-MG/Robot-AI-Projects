@@ -68,7 +68,7 @@ $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 - ##### Required dependencies:
 ```` sudo apt-get install ros-noetic-dwa-local-planner````
  ##
-#### The launch files in this package uses xacro.py and it is deprecated; I've used xacro instead 
+###### The launch files in this package uses xacro.py and it is deprecated; I've used xacro instead 
 ##
 - #### Load the robot in the Gazebo environment. Default model is the turtlebot3_house
 ````$ roslaunch diff_drive_bot gazebo.launch```` 
