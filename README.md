@@ -16,8 +16,7 @@
 
 
 - - ## Tasks: 
-- ##### Use OpenCV to make a real time face detection while streaming
-- ##### Use OpenCV to make real time face recognition while streaming  //cureeantly it can only recognize my face ^^
+- ##### Use OpenCV to make real time video streaming whith face recognition  //cureeantly it can only recognize my face ^^
 > ##### Folder:  **AI-OpenCV-Flask-realtime-face-reacognition**
 
 
