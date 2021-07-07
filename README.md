@@ -1,6 +1,6 @@
 # AI- Robot Tasks 
 
-## 1-Tasks:
+- - ## Tasks: 
 - ##### Configuration and installation of ROS Noetic,
 - ##### Installing Robot arm package 
 ### subTasks:
@@ -9,13 +9,13 @@
 
 
 #
-## 2-Tasks: 
+- - ## Tasks:  
 - ##### Using SLAM with TurtleBot3  to create and save a map 
 - ##### Using SLAM with Diff Drive Robot to create and save a map 
 > ##### Folder:  **AI-MapTask**
 
 
-## 3-Tasks: 
+- - ## Tasks: 
 - ##### Use OpenCV to make a real time face detection while streaming
 - ##### Use OpenCV to make real time face recognition while streaming(cureeantly it can only recognize my face ^^)
 > ##### Folder:  **AI-OpenCV-Flask-realtime-face-reacognition**
