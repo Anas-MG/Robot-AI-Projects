@@ -10,7 +10,8 @@
 ````
 $ catkin_create_pkg navigation_goal rospy message_generation std_msgs geometry_msgs
 ````
-- #### Writing Python Script , File:
+- #### Write Python Script:
+##### File:
 ````
  src/set_init_pose.py
 ````
