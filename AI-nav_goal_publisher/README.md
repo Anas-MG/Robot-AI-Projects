@@ -1,7 +1,9 @@
 # Navigation Goal Publisher 
+  ### Environment: 
+  ##### UBUNTO 20.04 , Ros: Noetic
   ##### Simulation: TurtleBot3 World 
   ##### Model: burger
-  #
+ #
 #### STEPS:
 
 - #### Create catkin pkg with Command:
