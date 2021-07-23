@@ -19,4 +19,8 @@
 - ##### Use OpenCV to make real time video streaming with face recognition  //curently it can only recognize my face ^^
 > ##### Folder:  **AI-OpenCV-Flask-realtime-face-reacognition**
 
+- - ## Tasks: 
+- #####  Write a python script that publishes to /move_base_simple/goal topic
+> ##### Folder:  **AI-nav_goal_publisher**
+
 
