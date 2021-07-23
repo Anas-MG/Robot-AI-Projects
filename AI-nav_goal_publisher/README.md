@@ -6,7 +6,7 @@
  #
 #### STEPS:
 
-- #### Create catkin pkg with Command:
+- #### Create navigation_goal pkg with Command:
 ````
 $ catkin_create_pkg navigation_goal rospy message_generation std_msgs geometry_msgs
 ````
