@@ -15,6 +15,7 @@ $ catkin_create_pkg navigation_goal rospy message_generation std_msgs geometry_m
 ````
  src/set_init_pose.py
 ````
+#
 - #### run: (after running Gazebo and Navigation )
 ````
 $ rosrun navigation_goal set_init_pose.py
