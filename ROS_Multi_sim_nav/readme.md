@@ -1,4 +1,4 @@
-# ROS Multiple Simulation with Turtlebot3
+# ROS Multiple Simulation & control with Turtlebot3
   ### Environment: 
   ##### UBUNTO 20.04 , Ros: Noetic
   ##### Simulation: TurtleBot3 World 
