@@ -23,4 +23,8 @@
 - - #####  Write a python script that publishes to /move_base_simple/goal topic
 > ##### Folder:  **AI-nav_goal_publisher**
 
+#
+- ## Tasks:
+- - #####  ROS Multiple robots Simulation & control with Turtlebot3
+> ##### Folder: **ROS_multi_sim_nav**
 
