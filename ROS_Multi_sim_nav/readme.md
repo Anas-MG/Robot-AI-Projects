@@ -27,8 +27,8 @@ $ roslaunch multi_sim_turtlebot3 new_simulation.launch
 - ###### Terminal 2: robots control
 ````
 $ rosrun teleop_twist_keyboard teleop_twist_keyboard.py /cmd_vel:=/robot1/cmd_vel //robot1
-or
-rosrun teleop_twist_keyboard teleop_twist_keyboard.py /cmd_vel:=/robot1/cmd_vel  //robot2
+
+$ rosrun teleop_twist_keyboard teleop_twist_keyboard.py /cmd_vel:=/robot1/cmd_vel  //robot2
 ````
 
 
