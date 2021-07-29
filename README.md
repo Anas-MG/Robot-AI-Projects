@@ -16,12 +16,12 @@
 - - ##### Multiple robots Simulation & control with Turtlebot3
 > ##### Folder: **ROS_multi_sim_nav**
 #
-### Python:
-#### 1- Creating Face Recognition Stream with python language , this should connect to the arduino ultrasonic (Robot Eyes): 
+### Python with ROS:
+#### 1- Face Recognition stream script, to use it with arduino ultrasonic (Robot Eyes): 
 - - ##### Use OpenCV to make real time video streaming with face recognition  //curently it can only recognize my face 
 > ##### Folder:  **AI-OpenCV-Flask-realtime-face-reacognition**
 #
-#### 2- writing a script with python languange inside ROS Package to move the robot to a specefic location: 
-- - #####  Write a python script that publishes to /move_base_simple/goal topic
+#### 2- Script to Move ROS robot to a specefic location: 
+- - #####  Write a python script inside ROS package that publishes to /move_base_simple/goal topic
 > ##### Folder:  **AI-nav_goal_publisher**
 
