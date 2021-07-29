@@ -1,12 +1,12 @@
 # ROS:
-## 1- Installing ROS and robot arm pkg  
+## Installing ROS and robot arm pkg  
 - - ##### version: ROS Noetic
 - - ##### Installing Robot arm package 
 - - ##### Solving the robot_state_publisher problem with ROS noetic
 > ##### Folder :  **AI-Task1**
 
 #
-## 2- Create a map by robot (Lidar sensonr) in ROS and save it 
+## Create a map by robot (Lidar sensonr) in ROS and save it 
 - - ##### Using SLAM with TurtleBot3  to create and save a map 
 - - ##### Using SLAM with Diff Drive Robot to create and save a map 
 > ##### Folder:  **AI-MapTask**
