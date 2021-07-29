@@ -1,8 +1,5 @@
 ## ROS:
 #### 1- Installing ROS and robot arm pkg  
-- - ##### Installing ROS version ROS Noetic
-- - ##### Installing Robot arm package for ROS and use it
-- - ##### Solving the robot_state_publisher problem with ROS noetic
 > ##### Folder :  **AI-Task1**
 
 #
