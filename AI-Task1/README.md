@@ -27,7 +27,7 @@ $ catkin_make
 #
 #### Controlling the robot arm by joint_state_publisher
 ````$ roslaunch robot_arm_pkg check_motors.launch````
-- #####  inside check_motors.launch i've changed the state publisher node from "state_publisher" to "robot_state_publisher" because the ROS Noetic problem 
+- ######  inside check_motors.launch i've changed the state publisher node from "state_publisher" to "robot_state_publisher" because the ROS Noetic problem 
 
 #### Simulation
 #### Run the following instruction to use gazebo
