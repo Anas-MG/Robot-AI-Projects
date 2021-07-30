@@ -15,7 +15,7 @@
 $ catkin_create_pkg navigation_goal rospy message_generation std_msgs geometry_msgs
 ````
 - #### Write Python Script that publishes to  /move_base_simple/goal:
-###### Script exact file:
+###### Script file:
 ``src/set_init_pose.py``
 #
 - #### run: (after running Gazebo and Navigation )
