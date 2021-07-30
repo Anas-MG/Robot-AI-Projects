@@ -14,8 +14,8 @@
 > ##### Folder: **ROS_multi_sim_nav**
 #
 ### Python with ROS:
-#### 1- Face Recognition stream script, to use it with arduino ultrasonic (Robot Eyes): 
-- - ##### Use OpenCV to make real time video streaming with face recognition  //curently it can only recognize my face 
+#### 1- Real time Face detection & recognition stream script: 
+- - ##### Use OpenCV to make real time video streaming with face recognition
 > ##### Folder:  **AI-OpenCV-Flask-realtime-face-reacognition**
 #
 #### 2- Script to Move ROS robot to a specefic location: 
