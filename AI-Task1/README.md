@@ -17,7 +17,7 @@ $ sudo apt install python3-rosdep
 $ sudo rosdep init
 $ rosdep update
 ````
-### 2- Robot arm pkg: 
+### 2- Using Robot arm pkg: 
 inside catkin_ws/src
 ````
 $ git clone https://github.com/smart-methods/arduino_robot_arm.git
