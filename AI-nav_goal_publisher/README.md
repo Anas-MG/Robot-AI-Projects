@@ -1,5 +1,6 @@
 # ROS Navigation Publisher 
-##### The project is for the robot to navigate to a specific coordinates , the approach here is publishing a navigation goal to the robot from the python script
+##### A publisher to the robot to navigate to a specific coordinates ,
+##### The approach here is publishing a navigation goal to the robot from the python script
 ![send_nav_topic](https://user-images.githubusercontent.com/49666154/127578364-0cb5bf83-0cdf-4052-9ec6-551991f66e1d.png)
 
   ### Environment: 
@@ -14,7 +15,7 @@
 ````
 $ catkin_create_pkg navigation_goal rospy message_generation std_msgs geometry_msgs
 ````
-- #### Write Python Script that publishes to  /move_base_simple/goal:
+- #### Write Python Script that publishes to  /move_base_simple/goal topic:
 ###### Script file:
 ``src/set_init_pose.py``
 #
