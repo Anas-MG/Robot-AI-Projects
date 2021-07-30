@@ -1,5 +1,5 @@
 ## ROS:
-#### 1- Robot arm pkg with ROS 
+#### 1- Installing ROS and Robot Arm Package & Test it
 > ##### Folder :  **AI-Task1**
 
 #
