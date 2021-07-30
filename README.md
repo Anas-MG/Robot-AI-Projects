@@ -15,10 +15,10 @@
 #
 ### Python with ROS:
 #### 1- Real time Face detection & recognition stream script: 
-- - ##### Use OpenCV to make real time video streaming with face recognition
+- - ##### Using OpenCV to make real time video streaming with face recognition
 > ##### Folder:  **AI-OpenCV-Flask-realtime-face-reacognition**
 #
 #### 2- Script to Move ROS robot to a specefic location: 
-- - #####  Write a python script inside ROS package that publishes to /move_base_simple/goal topic
+- - ##### Python script inside ROS package that publishes to /move_base_simple/goal topic
 > ##### Folder:  **AI-nav_goal_publisher**
 
