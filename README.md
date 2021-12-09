@@ -1,24 +1,22 @@
-## ROS:
+# Projects done:
+
+## In ROS:
 #### 1- Installing ROS and Robot Arm Package & Test it
 > ##### Folder :  **AI-Task1**
 
 #
-#### 2- Create a map by robot (Lidar sensonr) in ROS and save it 
-- - ##### Using SLAM with TurtleBot3  to create and save a map 
-- - ##### Using SLAM with Diff Drive Robot to create and save a map 
+#### - Create a map using different robots in ROS and save it 
 > ##### Folder:  **AI-MapTask**
 
 #
- #### 3- Multiple robots in ROS in the same time:
-- - ##### Multiple robots Simulation & control with Turtlebot3
+ #### - Multiple robots control & simulation in gazeboo on the same time:
 > ##### Folder: **ROS_multi_sim_nav**
 #
-### Python with ROS:
-#### 1- Real time Face detection & recognition stream script: 
-- - ##### Using OpenCV to make real time video streaming with face recognition
+### Python:
+#### - Real Time Stream with Face detection & recognition using OpenCV: 
 > ##### Folder:  **AI-OpenCV-Flask-realtime-face-reacognition**
+
 #
-#### 2- Script to Move ROS robot to a specefic location: 
-- - ##### Python script inside ROS package that publishes to /move_base_simple/goal topic
+#### - Script to Move ROS robot to a specefic location: 
 > ##### Folder:  **AI-nav_goal_publisher**
 
