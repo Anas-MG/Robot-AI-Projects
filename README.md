@@ -11,6 +11,15 @@
 #
 - ####  Multiple robots control & simulation in gazeboo on the same time:
 > ##### Folder: **ROS_multi_sim_nav**
+
+#
+- ####  Complete ROS SLAM Bot
+> ##### Folder:  **ROS_SLAM_Bot**
+
+#
+- ####  Running Micro-ROS in ESP32
+> ##### Folder:  **Micro-ROS_on_ESP32**
+
 #
 ### In Python:
 - ####  Real Time Stream with Face detection & recognition using OpenCV: 
